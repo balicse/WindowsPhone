@@ -1,0 +1,79 @@
+C:\Users\Julio\Documents\Visual Studio 2012\Projects\Windows Phone\1\Windows Phone 8 start\maps and location\Monitor de tu app en el background\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Julio\Documents\Visual Studio 2012\Projects\Windows Phone\1\Windows Phone 8 start\maps and location\Monitor de tu app en el background\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Julio\Documents\Visual Studio 2012\Projects\Windows Phone\1\Windows Phone 8 start\maps and location\Monitor de tu app en el background\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Julio\Documents\Visual Studio 2012\Projects\Windows Phone\1\Windows Phone 8 start\maps and location\Monitor de tu app en el background\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Julio\Documents\Visual Studio 2012\Projects\Windows Phone\1\Windows Phone 8 start\maps and location\Monitor de tu app en el background\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Julio\Documents\Visual Studio 2012\Projects\Windows Phone\1\Windows Phone 8 start\maps and location\Monitor de tu app en el background\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Julio\Documents\Visual Studio 2012\Projects\Windows Phone\1\Windows Phone 8 start\maps and location\Monitor de tu app en el background\Bin\Debug\Monitor de tu app en el background.dll
+C:\Users\Julio\Documents\Visual Studio 2012\Projects\Windows Phone\1\Windows Phone 8 start\maps and location\Monitor de tu app en el background\Bin\Debug\Monitor de tu app en el background.pdb
+C:\Users\Julio\Documents\Visual Studio 2012\Projects\Windows Phone\1\Windows Phone 8 start\maps and location\Monitor de tu app en el background\Bin\Debug\AppManifest.xaml
+C:\Users\Julio\Documents\Visual Studio 2012\Projects\Windows Phone\1\Windows Phone 8 start\maps and location\Monitor de tu app en el background\Bin\Debug\Monitor_de_tu_app_en_el_background_Debug_AnyCPU.xap
+C:\Users\Julio\Documents\Visual Studio 2012\Projects\Windows Phone\1\Windows Phone 8 start\maps and location\Monitor de tu app en el background\obj\Debug\App.g.cs
+C:\Users\Julio\Documents\Visual Studio 2012\Projects\Windows Phone\1\Windows Phone 8 start\maps and location\Monitor de tu app en el background\obj\Debug\MainPage.g.cs
+C:\Users\Julio\Documents\Visual Studio 2012\Projects\Windows Phone\1\Windows Phone 8 start\maps and location\Monitor de tu app en el background\obj\Debug\Page2.g.cs
+C:\Users\Julio\Documents\Visual Studio 2012\Projects\Windows Phone\1\Windows Phone 8 start\maps and location\Monitor de tu app en el background\obj\Debug\Monitor de tu app en el background.g.resources
+C:\Users\Julio\Documents\Visual Studio 2012\Projects\Windows Phone\1\Windows Phone 8 start\maps and location\Monitor de tu app en el background\obj\Debug\Monitor_de_tu_app_en_el_background.Resources.AppResources.resources
+C:\Users\Julio\Documents\Visual Studio 2012\Projects\Windows Phone\1\Windows Phone 8 start\maps and location\Monitor de tu app en el background\obj\Debug\3 Monitor de tu app en el background.csproj.GenerateResource.Cache
+C:\Users\Julio\Documents\Visual Studio 2012\Projects\Windows Phone\1\Windows Phone 8 start\maps and location\Monitor de tu app en el background\obj\Debug\Monitor de tu app en el background.dll
+C:\Users\Julio\Documents\Visual Studio 2012\Projects\Windows Phone\1\Windows Phone 8 start\maps and location\Monitor de tu app en el background\obj\Debug\Monitor de tu app en el background.pdb
+C:\Users\Julio\Documents\Visual Studio 2012\Projects\Windows Phone\1\Windows Phone 8 start\maps and location\Monitor de tu app en el background\obj\Debug\XapCacheFile.xml
+C:\Users\Kevin\Documents\maps and location\Monitor de tu app en el background\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Kevin\Documents\maps and location\Monitor de tu app en el background\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Kevin\Documents\maps and location\Monitor de tu app en el background\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Kevin\Documents\maps and location\Monitor de tu app en el background\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Kevin\Documents\maps and location\Monitor de tu app en el background\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Kevin\Documents\maps and location\Monitor de tu app en el background\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Kevin\Documents\maps and location\Monitor de tu app en el background\Bin\Debug\Monitor de tu app en el background.dll
+C:\Users\Kevin\Documents\maps and location\Monitor de tu app en el background\Bin\Debug\Monitor de tu app en el background.pdb
+C:\Users\Kevin\Documents\maps and location\Monitor de tu app en el background\Bin\Debug\AppManifest.xaml
+C:\Users\Kevin\Documents\maps and location\Monitor de tu app en el background\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Kevin\Documents\maps and location\Monitor de tu app en el background\Bin\Debug\Monitor_de_tu_app_en_el_background_Debug_AnyCPU.xap
+C:\Users\Kevin\Documents\maps and location\Monitor de tu app en el background\obj\Debug\App.g.cs
+C:\Users\Kevin\Documents\maps and location\Monitor de tu app en el background\obj\Debug\MainPage.g.cs
+C:\Users\Kevin\Documents\maps and location\Monitor de tu app en el background\obj\Debug\Page2.g.cs
+C:\Users\Kevin\Documents\maps and location\Monitor de tu app en el background\obj\Debug\Monitor de tu app en el background.g.resources
+C:\Users\Kevin\Documents\maps and location\Monitor de tu app en el background\obj\Debug\Monitor_de_tu_app_en_el_background.Resources.AppResources.resources
+C:\Users\Kevin\Documents\maps and location\Monitor de tu app en el background\obj\Debug\3 Monitor de tu app en el background.csproj.GenerateResource.Cache
+C:\Users\Kevin\Documents\maps and location\Monitor de tu app en el background\obj\Debug\Monitor de tu app en el background.dll
+C:\Users\Kevin\Documents\maps and location\Monitor de tu app en el background\obj\Debug\Monitor de tu app en el background.pdb
+C:\Users\Kevin\Documents\maps and location\Monitor de tu app en el background\obj\Debug\XapCacheFile.xml
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\Monitor de tu app en el background\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\Monitor de tu app en el background\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\Monitor de tu app en el background\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\Monitor de tu app en el background\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\Monitor de tu app en el background\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\Monitor de tu app en el background\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\Monitor de tu app en el background\Bin\Debug\Monitor de tu app en el background.dll
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\Monitor de tu app en el background\Bin\Debug\Monitor de tu app en el background.pdb
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\Monitor de tu app en el background\Bin\Debug\AppManifest.xaml
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\Monitor de tu app en el background\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\Monitor de tu app en el background\Bin\Debug\Monitor_de_tu_app_en_el_background_Debug_AnyCPU.xap
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\Monitor de tu app en el background\obj\Debug\App.g.cs
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\Monitor de tu app en el background\obj\Debug\MainPage.g.cs
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\Monitor de tu app en el background\obj\Debug\Page2.g.cs
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\Monitor de tu app en el background\obj\Debug\Monitor de tu app en el background.g.resources
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\Monitor de tu app en el background\obj\Debug\Monitor_de_tu_app_en_el_background.Resources.AppResources.resources
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\Monitor de tu app en el background\obj\Debug\3 Monitor de tu app en el background.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\Monitor de tu app en el background\obj\Debug\Monitor de tu app en el background.dll
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\Monitor de tu app en el background\obj\Debug\Monitor de tu app en el background.pdb
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\Monitor de tu app en el background\obj\Debug\XapCacheFile.xml
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\Monitor de tu app en el background\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\Monitor de tu app en el background\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\Monitor de tu app en el background\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\Monitor de tu app en el background\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\Monitor de tu app en el background\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\Monitor de tu app en el background\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\Monitor de tu app en el background\Bin\Debug\Monitor de tu app en el background.dll
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\Monitor de tu app en el background\Bin\Debug\Monitor de tu app en el background.pdb
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\Monitor de tu app en el background\Bin\Debug\AppManifest.xaml
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\Monitor de tu app en el background\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\Monitor de tu app en el background\Bin\Debug\Monitor_de_tu_app_en_el_background_Debug_AnyCPU.xap
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\Monitor de tu app en el background\obj\Debug\App.g.cs
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\Monitor de tu app en el background\obj\Debug\MainPage.g.cs
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\Monitor de tu app en el background\obj\Debug\Page2.g.cs
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\Monitor de tu app en el background\obj\Debug\Monitor de tu app en el background.g.resources
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\Monitor de tu app en el background\obj\Debug\Monitor_de_tu_app_en_el_background.Resources.AppResources.resources
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\Monitor de tu app en el background\obj\Debug\3 Monitor de tu app en el background.csproj.GenerateResource.Cache
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\Monitor de tu app en el background\obj\Debug\Monitor de tu app en el background.dll
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\Monitor de tu app en el background\obj\Debug\Monitor de tu app en el background.pdb
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\Monitor de tu app en el background\obj\Debug\XapCacheFile.xml

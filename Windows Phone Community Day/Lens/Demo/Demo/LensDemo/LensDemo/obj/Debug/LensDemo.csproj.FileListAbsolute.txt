@@ -1,0 +1,40 @@
+D:\Cloud\SkyDrive\Conferencias\2013\Windows Phone Community Day\App Lenses - WP Community Day 2013\Demo\LensDemo\LensDemo\Bin\Debug\Assets\ApplicationIcon.png
+D:\Cloud\SkyDrive\Conferencias\2013\Windows Phone Community Day\App Lenses - WP Community Day 2013\Demo\LensDemo\LensDemo\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\Cloud\SkyDrive\Conferencias\2013\Windows Phone Community Day\App Lenses - WP Community Day 2013\Demo\LensDemo\LensDemo\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\Cloud\SkyDrive\Conferencias\2013\Windows Phone Community Day\App Lenses - WP Community Day 2013\Demo\LensDemo\LensDemo\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\Cloud\SkyDrive\Conferencias\2013\Windows Phone Community Day\App Lenses - WP Community Day 2013\Demo\LensDemo\LensDemo\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\Cloud\SkyDrive\Conferencias\2013\Windows Phone Community Day\App Lenses - WP Community Day 2013\Demo\LensDemo\LensDemo\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\Cloud\SkyDrive\Conferencias\2013\Windows Phone Community Day\App Lenses - WP Community Day 2013\Demo\LensDemo\LensDemo\Bin\Debug\LensDemo.dll
+D:\Cloud\SkyDrive\Conferencias\2013\Windows Phone Community Day\App Lenses - WP Community Day 2013\Demo\LensDemo\LensDemo\Bin\Debug\LensDemo.pdb
+D:\Cloud\SkyDrive\Conferencias\2013\Windows Phone Community Day\App Lenses - WP Community Day 2013\Demo\LensDemo\LensDemo\Bin\Debug\AppManifest.xaml
+D:\Cloud\SkyDrive\Conferencias\2013\Windows Phone Community Day\App Lenses - WP Community Day 2013\Demo\LensDemo\LensDemo\Bin\Debug\Properties\WMAppManifest.xml
+D:\Cloud\SkyDrive\Conferencias\2013\Windows Phone Community Day\App Lenses - WP Community Day 2013\Demo\LensDemo\LensDemo\Bin\Debug\LensDemo_Debug_AnyCPU.xap
+D:\Cloud\SkyDrive\Conferencias\2013\Windows Phone Community Day\App Lenses - WP Community Day 2013\Demo\LensDemo\LensDemo\obj\Debug\App.g.cs
+D:\Cloud\SkyDrive\Conferencias\2013\Windows Phone Community Day\App Lenses - WP Community Day 2013\Demo\LensDemo\LensDemo\obj\Debug\MainPage.g.cs
+D:\Cloud\SkyDrive\Conferencias\2013\Windows Phone Community Day\App Lenses - WP Community Day 2013\Demo\LensDemo\LensDemo\obj\Debug\Page1.g.cs
+D:\Cloud\SkyDrive\Conferencias\2013\Windows Phone Community Day\App Lenses - WP Community Day 2013\Demo\LensDemo\LensDemo\obj\Debug\LensDemo.g.resources
+D:\Cloud\SkyDrive\Conferencias\2013\Windows Phone Community Day\App Lenses - WP Community Day 2013\Demo\LensDemo\LensDemo\obj\Debug\LensDemo.Resources.AppResources.resources
+D:\Cloud\SkyDrive\Conferencias\2013\Windows Phone Community Day\App Lenses - WP Community Day 2013\Demo\LensDemo\LensDemo\obj\Debug\LensDemo.csproj.GenerateResource.Cache
+D:\Cloud\SkyDrive\Conferencias\2013\Windows Phone Community Day\App Lenses - WP Community Day 2013\Demo\LensDemo\LensDemo\obj\Debug\LensDemo.dll
+D:\Cloud\SkyDrive\Conferencias\2013\Windows Phone Community Day\App Lenses - WP Community Day 2013\Demo\LensDemo\LensDemo\obj\Debug\LensDemo.pdb
+D:\Cloud\SkyDrive\Conferencias\2013\Windows Phone Community Day\App Lenses - WP Community Day 2013\Demo\LensDemo\LensDemo\obj\Debug\XapCacheFile.xml
+C:\Users\SoreyBibiana\Downloads\Lens\Demo\Demo\LensDemo\LensDemo\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\SoreyBibiana\Downloads\Lens\Demo\Demo\LensDemo\LensDemo\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\SoreyBibiana\Downloads\Lens\Demo\Demo\LensDemo\LensDemo\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\SoreyBibiana\Downloads\Lens\Demo\Demo\LensDemo\LensDemo\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\SoreyBibiana\Downloads\Lens\Demo\Demo\LensDemo\LensDemo\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\SoreyBibiana\Downloads\Lens\Demo\Demo\LensDemo\LensDemo\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\SoreyBibiana\Downloads\Lens\Demo\Demo\LensDemo\LensDemo\Bin\Debug\LensDemo.dll
+C:\Users\SoreyBibiana\Downloads\Lens\Demo\Demo\LensDemo\LensDemo\Bin\Debug\LensDemo.pdb
+C:\Users\SoreyBibiana\Downloads\Lens\Demo\Demo\LensDemo\LensDemo\Bin\Debug\AppManifest.xaml
+C:\Users\SoreyBibiana\Downloads\Lens\Demo\Demo\LensDemo\LensDemo\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\SoreyBibiana\Downloads\Lens\Demo\Demo\LensDemo\LensDemo\Bin\Debug\LensDemo_Debug_AnyCPU.xap
+C:\Users\SoreyBibiana\Downloads\Lens\Demo\Demo\LensDemo\LensDemo\obj\Debug\App.g.cs
+C:\Users\SoreyBibiana\Downloads\Lens\Demo\Demo\LensDemo\LensDemo\obj\Debug\MainPage.g.cs
+C:\Users\SoreyBibiana\Downloads\Lens\Demo\Demo\LensDemo\LensDemo\obj\Debug\Page1.g.cs
+C:\Users\SoreyBibiana\Downloads\Lens\Demo\Demo\LensDemo\LensDemo\obj\Debug\LensDemo.g.resources
+C:\Users\SoreyBibiana\Downloads\Lens\Demo\Demo\LensDemo\LensDemo\obj\Debug\LensDemo.Resources.AppResources.resources
+C:\Users\SoreyBibiana\Downloads\Lens\Demo\Demo\LensDemo\LensDemo\obj\Debug\LensDemo.csproj.GenerateResource.Cache
+C:\Users\SoreyBibiana\Downloads\Lens\Demo\Demo\LensDemo\LensDemo\obj\Debug\LensDemo.dll
+C:\Users\SoreyBibiana\Downloads\Lens\Demo\Demo\LensDemo\LensDemo\obj\Debug\LensDemo.pdb
+C:\Users\SoreyBibiana\Downloads\Lens\Demo\Demo\LensDemo\LensDemo\obj\Debug\XapCacheFile.xml

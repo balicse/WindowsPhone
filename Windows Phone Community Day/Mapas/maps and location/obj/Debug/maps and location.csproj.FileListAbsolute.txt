@@ -1,0 +1,18 @@
+C:\Users\Julio\Documents\Visual Studio 2012\Projects\Windows Phone\1\Windows Phone 8 start\maps and location\maps and location\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Julio\Documents\Visual Studio 2012\Projects\Windows Phone\1\Windows Phone 8 start\maps and location\maps and location\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Julio\Documents\Visual Studio 2012\Projects\Windows Phone\1\Windows Phone 8 start\maps and location\maps and location\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Julio\Documents\Visual Studio 2012\Projects\Windows Phone\1\Windows Phone 8 start\maps and location\maps and location\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Julio\Documents\Visual Studio 2012\Projects\Windows Phone\1\Windows Phone 8 start\maps and location\maps and location\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Julio\Documents\Visual Studio 2012\Projects\Windows Phone\1\Windows Phone 8 start\maps and location\maps and location\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Julio\Documents\Visual Studio 2012\Projects\Windows Phone\1\Windows Phone 8 start\maps and location\maps and location\Bin\Debug\maps and location.dll
+C:\Users\Julio\Documents\Visual Studio 2012\Projects\Windows Phone\1\Windows Phone 8 start\maps and location\maps and location\Bin\Debug\maps and location.pdb
+C:\Users\Julio\Documents\Visual Studio 2012\Projects\Windows Phone\1\Windows Phone 8 start\maps and location\maps and location\Bin\Debug\AppManifest.xaml
+C:\Users\Julio\Documents\Visual Studio 2012\Projects\Windows Phone\1\Windows Phone 8 start\maps and location\maps and location\Bin\Debug\maps_and_location_Debug_AnyCPU.xap
+C:\Users\Julio\Documents\Visual Studio 2012\Projects\Windows Phone\1\Windows Phone 8 start\maps and location\maps and location\obj\Debug\App.g.cs
+C:\Users\Julio\Documents\Visual Studio 2012\Projects\Windows Phone\1\Windows Phone 8 start\maps and location\maps and location\obj\Debug\MainPage.g.cs
+C:\Users\Julio\Documents\Visual Studio 2012\Projects\Windows Phone\1\Windows Phone 8 start\maps and location\maps and location\obj\Debug\maps and location.g.resources
+C:\Users\Julio\Documents\Visual Studio 2012\Projects\Windows Phone\1\Windows Phone 8 start\maps and location\maps and location\obj\Debug\maps_and_location.Resources.AppResources.resources
+C:\Users\Julio\Documents\Visual Studio 2012\Projects\Windows Phone\1\Windows Phone 8 start\maps and location\maps and location\obj\Debug\maps and location.csproj.GenerateResource.Cache
+C:\Users\Julio\Documents\Visual Studio 2012\Projects\Windows Phone\1\Windows Phone 8 start\maps and location\maps and location\obj\Debug\maps and location.dll
+C:\Users\Julio\Documents\Visual Studio 2012\Projects\Windows Phone\1\Windows Phone 8 start\maps and location\maps and location\obj\Debug\maps and location.pdb
+C:\Users\Julio\Documents\Visual Studio 2012\Projects\Windows Phone\1\Windows Phone 8 start\maps and location\maps and location\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,82 @@
+C:\Users\Kevin\Documents\maps and location\maps and location\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Kevin\Documents\maps and location\maps and location\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Kevin\Documents\maps and location\maps and location\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Kevin\Documents\maps and location\maps and location\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Kevin\Documents\maps and location\maps and location\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Kevin\Documents\maps and location\maps and location\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Kevin\Documents\maps and location\maps and location\Bin\Debug\maps and location.dll
+C:\Users\Kevin\Documents\maps and location\maps and location\Bin\Debug\maps and location.pdb
+C:\Users\Kevin\Documents\maps and location\maps and location\Bin\Debug\AppManifest.xaml
+C:\Users\Kevin\Documents\maps and location\maps and location\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Kevin\Documents\maps and location\maps and location\Bin\Debug\maps_and_location_Debug_AnyCPU.xap
+C:\Users\Kevin\Documents\maps and location\maps and location\obj\Debug\App.g.cs
+C:\Users\Kevin\Documents\maps and location\maps and location\obj\Debug\MainPage.g.cs
+C:\Users\Kevin\Documents\maps and location\maps and location\obj\Debug\maps and location.g.resources
+C:\Users\Kevin\Documents\maps and location\maps and location\obj\Debug\maps_and_location.Resources.AppResources.resources
+C:\Users\Kevin\Documents\maps and location\maps and location\obj\Debug\1 ubicación y mapa simple.csproj.GenerateResource.Cache
+C:\Users\Kevin\Documents\maps and location\maps and location\obj\Debug\maps and location.dll
+C:\Users\Kevin\Documents\maps and location\maps and location\obj\Debug\maps and location.pdb
+C:\Users\Kevin\Documents\maps and location\maps and location\obj\Debug\XapCacheFile.xml
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\maps and location\Bin\Debug\Assets\AppBar\add.png
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\maps and location\Bin\Debug\Assets\AppBar\minus.png
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\maps and location\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\maps and location\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\maps and location\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\maps and location\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\maps and location\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\maps and location\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\maps and location\Bin\Debug\maps and location.dll
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\maps and location\Bin\Debug\maps and location.pdb
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\maps and location\Bin\Debug\AppManifest.xaml
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\maps and location\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\maps and location\Bin\Debug\maps_and_location_Debug_AnyCPU.xap
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\maps and location\obj\Debug\App.g.cs
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\maps and location\obj\Debug\MainPage.g.cs
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\maps and location\obj\Debug\maps and location.g.resources
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\maps and location\obj\Debug\maps_and_location.Resources.AppResources.resources
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\maps and location\obj\Debug\1 ubicación y mapa simple.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\maps and location\obj\Debug\maps and location.dll
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\maps and location\obj\Debug\maps and location.pdb
+C:\Users\Usuario\Desktop\Expo\Expo\maps and location\maps and location\obj\Debug\XapCacheFile.xml
+C:\Users\SoreyBibiana\Downloads\maps and location\maps and location\maps and location\Bin\Debug\Assets\AppBar\add.png
+C:\Users\SoreyBibiana\Downloads\maps and location\maps and location\maps and location\Bin\Debug\Assets\AppBar\minus.png
+C:\Users\SoreyBibiana\Downloads\maps and location\maps and location\maps and location\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\SoreyBibiana\Downloads\maps and location\maps and location\maps and location\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\SoreyBibiana\Downloads\maps and location\maps and location\maps and location\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\SoreyBibiana\Downloads\maps and location\maps and location\maps and location\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\SoreyBibiana\Downloads\maps and location\maps and location\maps and location\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\SoreyBibiana\Downloads\maps and location\maps and location\maps and location\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\SoreyBibiana\Downloads\maps and location\maps and location\maps and location\Bin\Debug\maps and location.dll
+C:\Users\SoreyBibiana\Downloads\maps and location\maps and location\maps and location\Bin\Debug\maps and location.pdb
+C:\Users\SoreyBibiana\Downloads\maps and location\maps and location\maps and location\Bin\Debug\AppManifest.xaml
+C:\Users\SoreyBibiana\Downloads\maps and location\maps and location\maps and location\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\SoreyBibiana\Downloads\maps and location\maps and location\maps and location\Bin\Debug\maps_and_location_Debug_AnyCPU.xap
+C:\Users\SoreyBibiana\Downloads\maps and location\maps and location\maps and location\obj\Debug\App.g.cs
+C:\Users\SoreyBibiana\Downloads\maps and location\maps and location\maps and location\obj\Debug\MainPage.g.cs
+C:\Users\SoreyBibiana\Downloads\maps and location\maps and location\maps and location\obj\Debug\maps and location.g.resources
+C:\Users\SoreyBibiana\Downloads\maps and location\maps and location\maps and location\obj\Debug\maps_and_location.Resources.AppResources.resources
+C:\Users\SoreyBibiana\Downloads\maps and location\maps and location\maps and location\obj\Debug\1 ubicación y mapa simple.csproj.GenerateResource.Cache
+C:\Users\SoreyBibiana\Downloads\maps and location\maps and location\maps and location\obj\Debug\maps and location.dll
+C:\Users\SoreyBibiana\Downloads\maps and location\maps and location\maps and location\obj\Debug\maps and location.pdb
+C:\Users\SoreyBibiana\Downloads\maps and location\maps and location\maps and location\obj\Debug\XapCacheFile.xml
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\maps and location\Bin\Debug\Assets\AppBar\add.png
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\maps and location\Bin\Debug\Assets\AppBar\minus.png
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\maps and location\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\maps and location\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\maps and location\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\maps and location\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\maps and location\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\maps and location\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\maps and location\Bin\Debug\maps and location.dll
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\maps and location\Bin\Debug\maps and location.pdb
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\maps and location\Bin\Debug\AppManifest.xaml
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\maps and location\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\maps and location\Bin\Debug\maps_and_location_Debug_AnyCPU.xap
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\maps and location\obj\Debug\App.g.cs
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\maps and location\obj\Debug\MainPage.g.cs
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\maps and location\obj\Debug\maps and location.g.resources
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\maps and location\obj\Debug\maps_and_location.Resources.AppResources.resources
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\maps and location\obj\Debug\1 ubicación y mapa simple.csproj.GenerateResource.Cache
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\maps and location\obj\Debug\maps and location.dll
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\maps and location\obj\Debug\maps and location.pdb
+C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\maps and location\obj\Debug\XapCacheFile.xml
