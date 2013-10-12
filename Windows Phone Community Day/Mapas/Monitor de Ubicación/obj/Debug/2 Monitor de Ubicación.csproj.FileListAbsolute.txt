@@ -55,3 +55,22 @@ C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\Monitor de Ubicación\ob
 C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\Monitor de Ubicación\obj\Debug\Monitor de Ubicación.dll
 C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\Monitor de Ubicación\obj\Debug\Monitor de Ubicación.pdb
 C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\Monitor de Ubicación\obj\Debug\XapCacheFile.xml
+C:\Users\SoreyBibiana\Documents\GitHub\WindowsPhone\Windows Phone Community Day\Mapas\Monitor de Ubicación\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\SoreyBibiana\Documents\GitHub\WindowsPhone\Windows Phone Community Day\Mapas\Monitor de Ubicación\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\SoreyBibiana\Documents\GitHub\WindowsPhone\Windows Phone Community Day\Mapas\Monitor de Ubicación\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\SoreyBibiana\Documents\GitHub\WindowsPhone\Windows Phone Community Day\Mapas\Monitor de Ubicación\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\SoreyBibiana\Documents\GitHub\WindowsPhone\Windows Phone Community Day\Mapas\Monitor de Ubicación\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\SoreyBibiana\Documents\GitHub\WindowsPhone\Windows Phone Community Day\Mapas\Monitor de Ubicación\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\SoreyBibiana\Documents\GitHub\WindowsPhone\Windows Phone Community Day\Mapas\Monitor de Ubicación\Bin\Debug\Monitor de Ubicación.dll
+C:\Users\SoreyBibiana\Documents\GitHub\WindowsPhone\Windows Phone Community Day\Mapas\Monitor de Ubicación\Bin\Debug\Monitor de Ubicación.pdb
+C:\Users\SoreyBibiana\Documents\GitHub\WindowsPhone\Windows Phone Community Day\Mapas\Monitor de Ubicación\Bin\Debug\AppManifest.xaml
+C:\Users\SoreyBibiana\Documents\GitHub\WindowsPhone\Windows Phone Community Day\Mapas\Monitor de Ubicación\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\SoreyBibiana\Documents\GitHub\WindowsPhone\Windows Phone Community Day\Mapas\Monitor de Ubicación\Bin\Debug\Monitor_de_Ubicación_Debug_AnyCPU.xap
+C:\Users\SoreyBibiana\Documents\GitHub\WindowsPhone\Windows Phone Community Day\Mapas\Monitor de Ubicación\obj\Debug\App.g.cs
+C:\Users\SoreyBibiana\Documents\GitHub\WindowsPhone\Windows Phone Community Day\Mapas\Monitor de Ubicación\obj\Debug\MainPage.g.cs
+C:\Users\SoreyBibiana\Documents\GitHub\WindowsPhone\Windows Phone Community Day\Mapas\Monitor de Ubicación\obj\Debug\Monitor de Ubicación.g.resources
+C:\Users\SoreyBibiana\Documents\GitHub\WindowsPhone\Windows Phone Community Day\Mapas\Monitor de Ubicación\obj\Debug\Monitor_de_Ubicación.Resources.AppResources.resources
+C:\Users\SoreyBibiana\Documents\GitHub\WindowsPhone\Windows Phone Community Day\Mapas\Monitor de Ubicación\obj\Debug\2 Monitor de Ubicación.csproj.GenerateResource.Cache
+C:\Users\SoreyBibiana\Documents\GitHub\WindowsPhone\Windows Phone Community Day\Mapas\Monitor de Ubicación\obj\Debug\Monitor de Ubicación.dll
+C:\Users\SoreyBibiana\Documents\GitHub\WindowsPhone\Windows Phone Community Day\Mapas\Monitor de Ubicación\obj\Debug\Monitor de Ubicación.pdb
+C:\Users\SoreyBibiana\Documents\GitHub\WindowsPhone\Windows Phone Community Day\Mapas\Monitor de Ubicación\obj\Debug\XapCacheFile.xml

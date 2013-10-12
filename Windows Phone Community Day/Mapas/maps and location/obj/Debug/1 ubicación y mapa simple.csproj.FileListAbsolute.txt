@@ -80,3 +80,24 @@ C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\maps and location\obj\De
 C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\maps and location\obj\Debug\maps and location.dll
 C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\maps and location\obj\Debug\maps and location.pdb
 C:\Users\SoreyBibiana\Downloads\Mapas\maps and location\maps and location\obj\Debug\XapCacheFile.xml
+C:\Users\SoreyBibiana\Documents\GitHub\WindowsPhone\Windows Phone Community Day\Mapas\maps and location\Bin\Debug\Assets\AppBar\add.png
+C:\Users\SoreyBibiana\Documents\GitHub\WindowsPhone\Windows Phone Community Day\Mapas\maps and location\Bin\Debug\Assets\AppBar\minus.png
+C:\Users\SoreyBibiana\Documents\GitHub\WindowsPhone\Windows Phone Community Day\Mapas\maps and location\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\SoreyBibiana\Documents\GitHub\WindowsPhone\Windows Phone Community Day\Mapas\maps and location\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\SoreyBibiana\Documents\GitHub\WindowsPhone\Windows Phone Community Day\Mapas\maps and location\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\SoreyBibiana\Documents\GitHub\WindowsPhone\Windows Phone Community Day\Mapas\maps and location\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\SoreyBibiana\Documents\GitHub\WindowsPhone\Windows Phone Community Day\Mapas\maps and location\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\SoreyBibiana\Documents\GitHub\WindowsPhone\Windows Phone Community Day\Mapas\maps and location\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\SoreyBibiana\Documents\GitHub\WindowsPhone\Windows Phone Community Day\Mapas\maps and location\Bin\Debug\maps and location.dll
+C:\Users\SoreyBibiana\Documents\GitHub\WindowsPhone\Windows Phone Community Day\Mapas\maps and location\Bin\Debug\maps and location.pdb
+C:\Users\SoreyBibiana\Documents\GitHub\WindowsPhone\Windows Phone Community Day\Mapas\maps and location\Bin\Debug\AppManifest.xaml
+C:\Users\SoreyBibiana\Documents\GitHub\WindowsPhone\Windows Phone Community Day\Mapas\maps and location\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\SoreyBibiana\Documents\GitHub\WindowsPhone\Windows Phone Community Day\Mapas\maps and location\Bin\Debug\maps_and_location_Debug_AnyCPU.xap
+C:\Users\SoreyBibiana\Documents\GitHub\WindowsPhone\Windows Phone Community Day\Mapas\maps and location\obj\Debug\App.g.cs
+C:\Users\SoreyBibiana\Documents\GitHub\WindowsPhone\Windows Phone Community Day\Mapas\maps and location\obj\Debug\MainPage.g.cs
+C:\Users\SoreyBibiana\Documents\GitHub\WindowsPhone\Windows Phone Community Day\Mapas\maps and location\obj\Debug\maps and location.g.resources
+C:\Users\SoreyBibiana\Documents\GitHub\WindowsPhone\Windows Phone Community Day\Mapas\maps and location\obj\Debug\maps_and_location.Resources.AppResources.resources
+C:\Users\SoreyBibiana\Documents\GitHub\WindowsPhone\Windows Phone Community Day\Mapas\maps and location\obj\Debug\1 ubicación y mapa simple.csproj.GenerateResource.Cache
+C:\Users\SoreyBibiana\Documents\GitHub\WindowsPhone\Windows Phone Community Day\Mapas\maps and location\obj\Debug\maps and location.dll
+C:\Users\SoreyBibiana\Documents\GitHub\WindowsPhone\Windows Phone Community Day\Mapas\maps and location\obj\Debug\maps and location.pdb
+C:\Users\SoreyBibiana\Documents\GitHub\WindowsPhone\Windows Phone Community Day\Mapas\maps and location\obj\Debug\XapCacheFile.xml
